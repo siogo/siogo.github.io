@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[test2]]></title>
+      <url>%2F2017%2F03%2F15%2Ftest2%2F</url>
+      <content type="text"></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[test]]></title>
       <url>%2F2017%2F03%2F15%2Ftest%2F</url>
       <content type="text"><![CDATA[这是第一篇文章也是教程巴拉巴拉 hjfj巴拉巴拉]]></content>
